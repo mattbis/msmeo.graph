@@ -1,1 +1,1 @@
--- hmm damn i have to imagine how atom works since this will actually have to be protected.. OTOH you can turn it off so it doesnt matter and its more like interace to a proper solution.. 
+
