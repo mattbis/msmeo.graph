@@ -1,0 +1,1 @@
+-- r is pointer ot hash of hte combinators.. probably.. making this up :D
