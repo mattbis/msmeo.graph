@@ -1,0 +1,1 @@
+-- q is the query type .. and how the uq processes via its pq
