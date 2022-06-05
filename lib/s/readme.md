@@ -1,0 +1,1 @@
+-- s is the store itself - which is a interface, that optimises the q type .. 
